@@ -1,0 +1,184 @@
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe.config
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.AssemblyReference.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Properties.Resources.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.GenerateResource.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CopyComplete
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Anasayfa.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Ekle.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Güncelle.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Sil.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Transkript.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe.config
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.AssemblyReference.cache
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Anasayfa.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Ekle.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Güncelle.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Properties.Resources.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Sil.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Transkript.resources
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.GenerateResource.cache
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CopyComplete
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\İdrisEnesYigit_200601020_ödev2\DBMS_Project\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe.config
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.AssemblyReference.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Anasayfa.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Ekle.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Güncelle.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Properties.Resources.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Sil.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Transkript.resources
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.GenerateResource.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CopyComplete
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\DBMS_Project - Copy\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe.config
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\ogrenciTranskriptUygulaması.pdb
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\Npgsql.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Memory.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.AssemblyReference.cache
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Anasayfa.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Ekle.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Güncelle.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Properties.Resources.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Sil.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.Transkript.resources
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.GenerateResource.cache
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.csproj.CopyComplete
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.exe
+C:\Users\ienes\OneDrive\Masaüstü\Ceng201\idrisEnesYigit_200601020_task2\ogrenciTranskriptUygulaması\ogrenciTranskriptUygulaması\obj\Debug\ogrenciTranskriptUygulaması.pdb
